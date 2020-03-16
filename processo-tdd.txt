@@ -1,0 +1,13 @@
+Reforçando o Processo TDD
+
+O Processo TDD utilizando Testes Funcionais e Testes de Unidade consiste em 
+escrever o Teste Funcional, rodar o Teste Funcional e verificar se falha.
+Com a falha do Teste Funcional, escrever o Teste de Unidade, rodar o Teste 
+de Unidade e verificar se falha, escrever algum código da aplicação, 
+rodar o Teste de Unidade novamente e repetir até passar. 
+Com o código mínimo satisfazendo o Teste de Unidade, rodar novamente o 
+Teste Funcional e repetir o ciclo Unitário/ Funcional até passar em ambos 
+os testes.
+Caso necessário, refatorar o código e reexecutar os testes. Caso um ou mais 
+testes falhem, corrigir o código até que passe em ambos os testes. 
+Iniciar processo de testes para novo código.
